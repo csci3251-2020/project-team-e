@@ -1,6 +1,9 @@
-# This team hasn't started yet...
+# We start!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!...
 
-Check back later!
+Choose a current new task to do.
+**Please look at issues to start your work.**
+Do your work!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 **Please read `tasks.md` to start your work.**
+
  
