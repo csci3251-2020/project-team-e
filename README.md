@@ -6,5 +6,6 @@ In this project, we will implement what we have learned in this course to comple
 * Write README.md
 * Create and approve pull requests
 * And more!
+yo how abt we create a whatsapp group for better communication?
 # Code
 # Contributors
