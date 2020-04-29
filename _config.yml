@@ -1,5 +1,5 @@
 theme: jekyll-theme-midnight
-  collections:
-    stu:
-      output: true
-      
+collections:
+  stu:
+    output: true
+    
