@@ -8,8 +8,7 @@ In this project, we will implement what we have learned in this course to comple
 * And more!
 # Code
 # Contributors
-{% for stu in site.stu %}
-  <img src="stu.image" alt="image" width="50" height="50">
-  <h2>{{ stu.user }} - {{ stu.name }}</h2>
-  <p>{{ stu.content | markdownify }}</p>
+{% for students in site.stu %}
+  <h2>{{students.image}} @{{ students.user }}({{ students.name }})</h2>
+     <p>{{ students.content | markdownify }}</p>
 {% endfor %}
