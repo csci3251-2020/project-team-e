@@ -6,11 +6,11 @@ In this project, we will implement what we have learned in this course to comple
 * Write README.md
 * Create and approve pull requests
 * And more!
+
 # Code
 # Contributors
 {% for students in site.stu %}
-<div>
-  <p><img src="{{ students.image }}" width="50" height="50"> <span>@{{students.user}}</span> ({{ students.name }})</p>  
-  <p style="margin-left: 10px;">{{ students.content}}</p>
-</div>
+* <p><img src="{{ students.image }}" width="50" height="50"> <span>@{{students.user}}</span> ({{ students.name }})</p>  
+  * <p style="margin-left: 10px;">{{ students.content}}</p>
+
 {% endfor %}
