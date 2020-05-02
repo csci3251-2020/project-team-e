@@ -1,11 +1,14 @@
 # Introduction
 Hello! This is team E!
 In this project, we will implement what we have learned in this course to complete 8 different tasks, including:
-* Handle issues
-* Create new projects
-* Write README.md
-* Create and approve pull requests
-* And more!
+1. Starting issues
+2. Project board
+3. Set up readme.md 
+4. Show your team to the Internet
+5. Keep checking... 
+6. Write C code 
+7. Get a status badge
+8. Promote your repo
 
 # Code
 # Contributors
