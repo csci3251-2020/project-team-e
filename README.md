@@ -17,3 +17,4 @@ In this project, we will implement what we have learned in this course to comple
   * {{ students.content}}
 
 {% endfor %}
+Last updated: {{ site.time }}
