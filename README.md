@@ -11,6 +11,11 @@ In this project, we will implement what we have learned in this course to comple
 8. Promote your repo
 
 # Code
+```c
+{% include_relative code.c %}
+```
+![](https://github.com/csci3251-2020/project-team-e/workflows/Task6_v1_TeamE/badge.svg)
+
 # Contributors
 {% for students in site.stu %}
 * <img src="{{ students.image }}" width="50" height="50"> <span>@{{students.user}}</span> ({{ students.name }})
