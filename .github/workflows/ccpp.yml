@@ -1,0 +1,18 @@
+name: Task6_v1_TeamE
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  test:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: run simple C program
+      run: gcc code.c -o code; ./code
+
